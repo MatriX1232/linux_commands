@@ -31,6 +31,7 @@ Feel free to download and modify :)
 - touch
 - diff
 - cat
+- du
 - hash
 - grep
 - random
