@@ -34,5 +34,6 @@ Copy files to folder and, create .bat files and add folder containing .bat files
 
 
 ## 🔗 Links
+<a href="www.linkedin.com/in/mateusz-solinski/">
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateusz-solinski/)
-
+</a>
