@@ -10,6 +10,16 @@
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 </h1>
+
+## Appendix
+
+⚠️⚠️⚠️
+
+WARNING: THIS IS STILL WORK IN PROGRESS. SOME OF THOSE FUNCTIONS MAY BE NOT WORKING
+
+⚠️⚠️⚠️
+
+
 # Linux Commands For Windows
 
 These are commands that are esential for linux user that Windows doesn't have.
